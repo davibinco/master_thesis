@@ -1,0 +1,17 @@
+\newenvironment{dedication}
+  {\clearpage           % we want a new page
+   \thispagestyle{empty}% no header and footer
+   \vspace*{\stretch{1}}% some space at the top 
+   \itshape             % the text is in italics
+   \raggedleft          % flush to the right margin
+  }
+  {\par % end the paragraph
+   \vspace{\stretch{3}} % space at bottom is three times that at the top
+   \clearpage           % finish off the page
+  }
+
+\begin{dedication}
+A chi c'è stato, a chi c'è e a chi ci sarà \\
+\vspace{1cm}
+To who has been there, who is here and who will be there
+\end{dedication}

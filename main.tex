@@ -1,0 +1,31 @@
+\documentclass[12pt, a4paper]{report}
+\input{usepackages.tex}
+\addbibresource{bibliography.bib}
+\numberwithin{equation}{chapter}
+
+\begin{document}
+
+\input{titlepage}
+\input{dedication}
+\tableofcontents
+
+
+\input{chapters/Introduction}
+\input{chapters/1-Quantum computational chemistry}
+\input{chapters/2-Density functional theory}
+\input{chapters/3-Quantum computing}
+\input{chapters/4-Quantum computing for computational chemistry - FTQC devices}
+\input{chapters/5-Quantum computing for computational chemistry - NISQ devices}
+\input{chapters/6-Computational advantage}
+\input{chapters/Conclusion}
+\input{chapters/Acknowledgments}
+
+
+
+\printbibliography[
+heading=bibintoc,
+title={Bibliography}
+]
+
+
+\end{document}

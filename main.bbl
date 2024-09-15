@@ -1,0 +1,2747 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{BibEntry2016Jul}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{month}{7}
+      \field{note}{[Online; accessed 30. Aug. 2022]}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://physlab.org/wp-content/uploads/2016/07/QComp-Photons-2015-J-Phys-B.pdf
+      \endverb
+      \verb{url}
+      \verb https://physlab.org/wp-content/uploads/2016/07/QComp-Photons-2015-J-Phys-B.pdf
+      \endverb
+    \endentry
+    \entry{Anand2022Mar}{article}{}
+      \name{author}{10}{}{%
+        {{hash=985f06ea28010d41b98c55dadf1cf6e5}{%
+           family={Anand},
+           familyi={A\bibinitperiod},
+           given={Abhinav},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8283ee2debdcc5b517827b1919c53983}{%
+           family={Schleich},
+           familyi={S\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61ad4aae7993ccc474ac720659abf6c3}{%
+           family={Alperin-Lea},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Sumner},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cde9d4acfa1a21884c6b918adb763298}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Phillip\bibnamedelimb W.\bibnamedelimi K.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f156a71a758735a1cfc0aab991a121e2}{%
+           family={Sim},
+           familyi={S\bibinitperiod},
+           given={Sukin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=48581615ea2a4d677f2cc7b177495975}{%
+           family={Díaz-Tinoco},
+           familyi={D\bibinithyphendelim T\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=107b712d1e1d0da12ec456450de4e440}{%
+           family={Kottmann},
+           familyi={K\bibinitperiod},
+           given={Jakob\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ce554a1b376ee1be7e82f136d4237255}{%
+           family={Degroote},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=445cd11464a7964a850da38cf166c1c3}{%
+           family={Izmaylov},
+           familyi={I\bibinitperiod},
+           given={Artur\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{584804be54041356da86c13fcd646297}
+      \strng{fullhash}{4a2595fd86389db8fd9a901e7617f7aa}
+      \strng{bibnamehash}{584804be54041356da86c13fcd646297}
+      \strng{authorbibnamehash}{584804be54041356da86c13fcd646297}
+      \strng{authornamehash}{584804be54041356da86c13fcd646297}
+      \strng{authorfullhash}{4a2595fd86389db8fd9a901e7617f7aa}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0306-0012}
+      \field{journaltitle}{Chem. Soc. Rev.}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{{A quantum computing view on unitary coupled cluster theory}}
+      \field{volume}{51}
+      \field{year}{2022}
+      \field{pages}{1659\bibrangedash 1684}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1039/D1CS00932J
+      \endverb
+    \endentry
+    \entry{Andersson2022Jun}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0521339edbc7ad1d2f5636acd9ec33df}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Martin\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f163ab98d52d21ca9f8c06e97b745fe2}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Mark\bibnamedelima N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=0afd733757539a69e72a45e788484012}{%
+           family={Mikkelsen},
+           familyi={M\bibinitperiod},
+           given={Kurt\bibnamedelima V.},
+           giveni={K\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=25d7afe062fcfc6297b7a7cf93c21f51}{%
+           family={You},
+           familyi={Y\bibinitperiod},
+           given={Fengqi},
+           giveni={F\bibinitperiod}}}%
+        {{hash=543cc74157f6caf81b4ebf90a363edac}{%
+           family={Mansouri},
+           familyi={M\bibinitperiod},
+           given={Seyed\bibnamedelima Soheil},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4221cf437aff0374d66d7b32c0349789}
+      \strng{fullhash}{779011609ec14aa64e4c663b1a141e91}
+      \strng{bibnamehash}{4221cf437aff0374d66d7b32c0349789}
+      \strng{authorbibnamehash}{4221cf437aff0374d66d7b32c0349789}
+      \strng{authornamehash}{4221cf437aff0374d66d7b32c0349789}
+      \strng{authorfullhash}{779011609ec14aa64e4c663b1a141e91}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2211-3398}
+      \field{journaltitle}{Curr. Opin. Chem. Eng.}
+      \field{month}{6}
+      \field{title}{{Quantum computing for chemical and biomolecular product design}}
+      \field{volume}{36}
+      \field{year}{2022}
+      \field{pages}{100754}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.coche.2021.100754
+      \endverb
+    \endentry
+    \entry{Arute2019Oct}{article}{}
+      \name{author}{77}{}{%
+        {{hash=a0b41f4400dc855d7426a5f72cadaa6c}{%
+           family={Arute},
+           familyi={A\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0a2abe43325e0dd3690ccc47bfa6c6b7}{%
+           family={Arya},
+           familyi={A\bibinitperiod},
+           given={Kunal},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7bb1dcf8a93d1ecc6f9531ece93ef1fa}{%
+           family={Babbush},
+           familyi={B\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5ef37e7fe45a9ff23c761910726d5e4b}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d831c1d824f8a4e2a69f6495b8fdc91b}{%
+           family={Bardin},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=659b693e073fa93a83924447ea805d77}{%
+           family={Barends},
+           familyi={B\bibinitperiod},
+           given={Rami},
+           giveni={R\bibinitperiod}}}%
+        {{hash=44196321323dfc67fdaa85c495168130}{%
+           family={Biswas},
+           familyi={B\bibinitperiod},
+           given={Rupak},
+           giveni={R\bibinitperiod}}}%
+        {{hash=915e31fc5958183d06275c3c3e811123}{%
+           family={Boixo},
+           familyi={B\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cfb6bdb1d0b7056322d56e3f4fad93a8}{%
+           family={Brandao},
+           familyi={B\bibinitperiod},
+           given={Fernando\bibnamedelimb G.\bibnamedelimi S.\bibnamedelimi L.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=11aed4b55c11ca1030deddd80f15b620}{%
+           family={Buell},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fac8774f4c39c4cc9371a032e53c0fb6}{%
+           family={Burkett},
+           familyi={B\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5ffb5aba0d9858b862639d446d48f8eb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1fac7e902845b1c2d0fd9ae4a0d00cc7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zijun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9cba836ac52ec45b3536ecac1ca0c4c4}{%
+           family={Chiaro},
+           familyi={C\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f16002805dc7f9d96346bda6700be931}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cf7e5385acaf82df7a53cd34a54e21e2}{%
+           family={Courtney},
+           familyi={C\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ecea25363fad364a9f4a37613078f227}{%
+           family={Dunsworth},
+           familyi={D\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5e61ee12360fc49d9013fbf8fe18db89}{%
+           family={Farhi},
+           familyi={F\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f27112cd6eb82fab2bc9d0542c995ea9}{%
+           family={Foxen},
+           familyi={F\bibinitperiod},
+           given={Brooks},
+           giveni={B\bibinitperiod}}}%
+        {{hash=aa6e65cd6932f53db466e337a1cb6760}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Austin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0101a428978c8ddc038880b7a77afd98}{%
+           family={Gidney},
+           familyi={G\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ad64cecce98f1d14ae82dabfcaf7db86}{%
+           family={Giustina},
+           familyi={G\bibinitperiod},
+           given={Marissa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8f816bc12e277c2a230aaab32148cef6}{%
+           family={Graff},
+           familyi={G\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ffd6b1344764207fb5b1cedb2b502a25}{%
+           family={Guerin},
+           familyi={G\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ac01d23b67bf69493082451323481b4c}{%
+           family={Habegger},
+           familyi={H\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fdafe36c75ea60b5e9310e5a98907464}{%
+           family={Harrigan},
+           familyi={H\bibinitperiod},
+           given={Matthew\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d7ea6046bc62277e6e2c5fe7d61e78df}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7a9ef4b5db5d57071194cc11995a6499}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5f670721dca24ae1337011719914a64c}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=33dfa81b00ac11936ef381208950305d}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Trent},
+           giveni={T\bibinitperiod}}}%
+        {{hash=963b22ba5e47cd073c7fc1a754ab2a55}{%
+           family={Humble},
+           familyi={H\bibinitperiod},
+           given={Travis\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5b1bc1fc6c73555d5af1db48cdbef9af}{%
+           family={Isakov},
+           familyi={I\bibinitperiod},
+           given={Sergei\bibnamedelima V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=9900c4e96164131afb8af307845df9b8}{%
+           family={Jeffrey},
+           familyi={J\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=67db50e40049bac70a6d264e681d86de}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Zhang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d2351f128f45cc307e110f1bf030fa0d}{%
+           family={Kafri},
+           familyi={K\bibinitperiod},
+           given={Dvir},
+           giveni={D\bibinitperiod}}}%
+        {{hash=399f6f0649872eb96c7b5d2253ac1654}{%
+           family={Kechedzhi},
+           familyi={K\bibinitperiod},
+           given={Kostyantyn},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6a2991ec48fc939b711eac2466cbcc68}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cbc1620351ea65d57c28a39c84b1ac30}{%
+           family={Klimov},
+           familyi={K\bibinitperiod},
+           given={Paul\bibnamedelima V.},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=84fa8eaf8054b75340e704427e2e7414}{%
+           family={Knysh},
+           familyi={K\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2290dc7590a4c730593624b7a1fdc40f}{%
+           family={Korotkov},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a7bde64895d0208e927e79c2755b9a83}{%
+           family={Kostritsa},
+           familyi={K\bibinitperiod},
+           given={Fedor},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0106e3d3d8629adc0639fb0388e51a73}{%
+           family={Landhuis},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1660c9b8c16952a4ec028c87eef3abc7}{%
+           family={Lindmark},
+           familyi={L\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1ca86a6dfd219877ce431f01a165a869}{%
+           family={Lucero},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=22d2522f63c4d1770eed3debd45fd8fa}{%
+           family={Lyakh},
+           familyi={L\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3f2ddf64c1ea271a8a2634bbbb68d254}{%
+           family={Mandrà},
+           familyi={M\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a253ddc1c4c24cde70238bd45dc9aeff}{%
+           family={McClean},
+           familyi={M\bibinitperiod},
+           given={Jarrod\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7336ef3ca1b8bfadc8b89b8c7c59577b}{%
+           family={McEwen},
+           familyi={M\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c6ec14427d690fa73b3021943d5439b}{%
+           family={Megrant},
+           familyi={M\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9b445b45607e1e8e0672105779ea626b}{%
+           family={Mi},
+           familyi={M\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2338ed7a6906bd7cfdac98c5e56e45b6}{%
+           family={Michielsen},
+           familyi={M\bibinitperiod},
+           given={Kristel},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3660f6bf9d4821aa4c362d0abd316e4f}{%
+           family={Mohseni},
+           familyi={M\bibinitperiod},
+           given={Masoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5f06874711ade5e9c75656666220f803}{%
+           family={Mutus},
+           familyi={M\bibinitperiod},
+           given={Josh},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4bda703a11fed621732b26896f391e85}{%
+           family={Naaman},
+           familyi={N\bibinitperiod},
+           given={Ofer},
+           giveni={O\bibinitperiod}}}%
+        {{hash=6bcda02c5188bf25bad1475b8f30cecd}{%
+           family={Neeley},
+           familyi={N\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7e6d8fe85e636af42fba1f9d583e70e9}{%
+           family={Neill},
+           familyi={N\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ed18aa264c8650c491f53d6dc4118292}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Murphy\bibnamedelima Yuezhen},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=2d89c5708f0f2aa0a4f4358d53bfc901}{%
+           family={Ostby},
+           familyi={O\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b3e0589d3dfc4ccb2c20d9bae908ad5c}{%
+           family={Petukhov},
+           familyi={P\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b18cccf0f11300769fc4b01f5fe5f13a}{%
+           family={Platt},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d7e98df2b678f196d4696b116fb5edb6}{%
+           family={Quintana},
+           familyi={Q\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8ebda72545842e8ca358df12fd00edc6}{%
+           family={Rieffel},
+           familyi={R\bibinitperiod},
+           given={Eleanor\bibnamedelima G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=ab67b0d3986106680d464532f25dc939}{%
+           family={Roushan},
+           familyi={R\bibinitperiod},
+           given={Pedram},
+           giveni={P\bibinitperiod}}}%
+        {{hash=79a0c3f2d2ac6a6e26b1e6e488c3b198}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Nicholas\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9c196f976101682c061efc0614f70fa6}{%
+           family={Sank},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=640413903b4eab5258544e70c464cf91}{%
+           family={Satzinger},
+           familyi={S\bibinitperiod},
+           given={Kevin\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=087a4bb34bd0827f9235dede4eff2970}{%
+           family={Smelyanskiy},
+           familyi={S\bibinitperiod},
+           given={Vadim},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a912a72b8de08532c080010f87041bda}{%
+           family={Sung},
+           familyi={S\bibinitperiod},
+           given={Kevin\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=edb9b45c05af268e690b431177e285bb}{%
+           family={Trevithick},
+           familyi={T\bibinitperiod},
+           given={Matthew\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8c9c62d63da654e3e637727ef0ada9e9}{%
+           family={Vainsencher},
+           familyi={V\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b483aa193391113d1234b6ae181e0dca}{%
+           family={Villalonga},
+           familyi={V\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=da61f207bd110c14a1e7e8fe213f33eb}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Theodore},
+           giveni={T\bibinitperiod}}}%
+        {{hash=473d08a31ed9fbf52d5baf436b7a809a}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Z.\bibnamedelimi Jamie},
+           giveni={Z\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e94b0ed312e1e2edcfe8a1b6bd1749d8}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e6df2c969e6e639ddd23909ad813034d}{%
+           family={Zalcman},
+           familyi={Z\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ddcc46c5456340da59be4077c7102a27}{%
+           family={Neven},
+           familyi={N\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+        {{hash=25ae3182aa7d65d6b2ce4baea1970309}{%
+           family={Martinis},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{b5ee69b81bc21fd247bbaf0f432158b6}
+      \strng{fullhash}{9ed5ca9a711651574caed94b21c9e439}
+      \strng{bibnamehash}{b5ee69b81bc21fd247bbaf0f432158b6}
+      \strng{authorbibnamehash}{b5ee69b81bc21fd247bbaf0f432158b6}
+      \strng{authornamehash}{b5ee69b81bc21fd247bbaf0f432158b6}
+      \strng{authorfullhash}{9ed5ca9a711651574caed94b21c9e439}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{10}
+      \field{title}{{Quantum supremacy using a programmable superconducting processor}}
+      \field{volume}{574}
+      \field{year}{2019}
+      \field{pages}{505\bibrangedash 510}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1666-5
+      \endverb
+    \endentry
+    \entry{Aspuru-Guzik2005Sep}{article}{}
+      \name{author}{4}{}{%
+        {{hash=490687068500d07fa5d1351861caf0ab}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Ala'n},
+           giveni={A\bibinitperiod}}}%
+        {{hash=64cd4143072ba453580f52e602db5abf}{%
+           family={Dutoi},
+           familyi={D\bibinitperiod},
+           given={Anthony\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2d8133b5eb867e28af9ca9ea41105b5c}{%
+           family={Love},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{%
+           family={Head-Gordon},
+           familyi={H\bibinithyphendelim G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{e23743d34b38a8c8ba1ec5fa3f732599}
+      \strng{fullhash}{8e7b6082970a91e1742f48323eb9bb1d}
+      \strng{bibnamehash}{e23743d34b38a8c8ba1ec5fa3f732599}
+      \strng{authorbibnamehash}{e23743d34b38a8c8ba1ec5fa3f732599}
+      \strng{authornamehash}{e23743d34b38a8c8ba1ec5fa3f732599}
+      \strng{authorfullhash}{8e7b6082970a91e1742f48323eb9bb1d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{9}
+      \field{number}{5741}
+      \field{title}{{Simulated Quantum Computation of Molecular Energies}}
+      \field{volume}{309}
+      \field{year}{2005}
+      \field{pages}{1704\bibrangedash 1707}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1113479
+      \endverb
+    \endentry
+    \entry{Bassman2021Sep}{article}{}
+      \name{author}{6}{}{%
+        {{hash=0e3418a70497a8b5e14de0b292738f07}{%
+           family={Bassman},
+           familyi={B\bibinitperiod},
+           given={Lindsay},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4761dba205438720e23c0e33c66f175d}{%
+           family={Urbanek},
+           familyi={U\bibinitperiod},
+           given={Miroslav},
+           giveni={M\bibinitperiod}}}%
+        {{hash=38be2b8a68af5f5e1a828dbdc3ab57c9}{%
+           family={Metcalf},
+           familyi={M\bibinitperiod},
+           given={Mekena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=73e8df072e7e92ea21f4ca45b6752820}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9cc687b14676e806e97e1a22d1d9b3a4}{%
+           family={Kemper},
+           familyi={K\bibinitperiod},
+           given={Alexander\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=aedc9b953721e0ad98db45a561c84dbe}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Wibe\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{25b043e86f2e3271fd7d622811ea44a6}
+      \strng{fullhash}{666b54d032b6bef7615cd982819da94c}
+      \strng{bibnamehash}{25b043e86f2e3271fd7d622811ea44a6}
+      \strng{authorbibnamehash}{25b043e86f2e3271fd7d622811ea44a6}
+      \strng{authornamehash}{25b043e86f2e3271fd7d622811ea44a6}
+      \strng{authorfullhash}{666b54d032b6bef7615cd982819da94c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2058-9565}
+      \field{journaltitle}{Quantum Sci. Technol.}
+      \field{month}{9}
+      \field{number}{4}
+      \field{title}{{Simulating quantum materials with digital quantum computers}}
+      \field{volume}{6}
+      \field{year}{2021}
+      \field{pages}{043002}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/2058-9565/ac1ca6
+      \endverb
+    \endentry
+    \entry{Bauer2020Nov}{article}{}
+      \name{author}{4}{}{%
+        {{hash=068222b65b72f8fc41261b1a56b40002}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Bela},
+           giveni={B\bibinitperiod}}}%
+        {{hash=964ccce884d5c27e980e285b18d587cd}{%
+           family={Bravyi},
+           familyi={B\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=336c60bdadf6471997c9682dacd211a2}{%
+           family={Motta},
+           familyi={M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9fa3b07f3d74fe2c76629514daf4277d}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Garnet\bibnamedelima Kin-Lic},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {See full text options at American Chemical Society}%
+      }
+      \strng{namehash}{3d57bab495922f9ac31059e757ecb25d}
+      \strng{fullhash}{c5b5d720030e7eec230957e12f4fa82c}
+      \strng{bibnamehash}{3d57bab495922f9ac31059e757ecb25d}
+      \strng{authorbibnamehash}{3d57bab495922f9ac31059e757ecb25d}
+      \strng{authornamehash}{3d57bab495922f9ac31059e757ecb25d}
+      \strng{authorfullhash}{c5b5d720030e7eec230957e12f4fa82c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1520-6890}
+      \field{journaltitle}{Chem. Rev.}
+      \field{month}{11}
+      \field{number}{22}
+      \field{title}{{Quantum Algorithms for Quantum Chemistry and Quantum Materials Science}}
+      \field{volume}{120}
+      \field{year}{2020}
+      \field{pages}{12685\bibrangedash 12717}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1021/acs.chemrev.9b00829
+      \endverb
+      \verb{eprint}
+      \verb 33090772
+      \endverb
+    \endentry
+    \entry{Blunt2022Jun}{article}{}
+      \name{author}{12}{}{%
+        {{hash=00b6c15ec0c0a2d58580a113d994fc78}{%
+           family={Blunt},
+           familyi={B\bibinitperiod},
+           given={Nick\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f91733e7196f09fedd7a37201d4a6faa}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Joan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=44e20c78f0f2a5308268e91aae5d6d05}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Ophelia},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f62f11e38991b9dc765bfe17735e2e67}{%
+           family={Izsák},
+           familyi={I\bibinitperiod},
+           given={Róbert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=141f88e95c3671966c74f2178392efb9}{%
+           family={Leontica},
+           familyi={L\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e87de037eb0227dcbe32efffa1d005d}{%
+           family={Mirani},
+           familyi={M\bibinitperiod},
+           given={Arjun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=469b973f8bb01283ec0a166e28a7f41e}{%
+           family={Moylett},
+           familyi={M\bibinitperiod},
+           given={Alexandra\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fd52966a2485c13c2431162e74cd99c7}{%
+           family={Scivier},
+           familyi={S\bibinitperiod},
+           given={Sam\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8927f859bbb15f8d71e9b34f73cc14e9}{%
+           family={Sünderhauf},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f7342d3a69bea76fdd917946ac38965f}{%
+           family={Schopf},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4eca1f62d57c81fb8debad515a92f6f8}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Jacob\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ac55758b5bbcbdb1ac81633248829f24}{%
+           family={Holzmann},
+           familyi={H\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{398a3a55e5020cd4ead6030597302ce3}
+      \strng{fullhash}{d5462146fa359cac072ae5b87657df6b}
+      \strng{bibnamehash}{398a3a55e5020cd4ead6030597302ce3}
+      \strng{authorbibnamehash}{398a3a55e5020cd4ead6030597302ce3}
+      \strng{authornamehash}{398a3a55e5020cd4ead6030597302ce3}
+      \strng{authorfullhash}{d5462146fa359cac072ae5b87657df6b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{6}
+      \field{title}{{A perspective on the current state-of-the-art of quantum computing for drug discovery applications}}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.48550/arXiv.2206.00551
+      \endverb
+      \verb{eprint}
+      \verb 2206.00551
+      \endverb
+    \endentry
+    \entry{Bruzewicz2019Apr}{article}{}
+      \name{author}{4}{}{%
+        {{hash=27b6486537835d90881ac07314728ce0}{%
+           family={Bruzewicz},
+           familyi={B\bibinitperiod},
+           given={Colin\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=917f5ed1c6d5e6fb1e969587434963d1}{%
+           family={Chiaverini},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c143b8da260b4a1d845c227b48c14d8d}{%
+           family={McConnell},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=53140bb38c45439b2e2dcdf74d555492}{%
+           family={Sage},
+           familyi={S\bibinitperiod},
+           given={Jeremy\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{68270afa36cbcc633293add9309b0f92}
+      \strng{fullhash}{569d67530d8fb1ccf06af96ab176311b}
+      \strng{bibnamehash}{68270afa36cbcc633293add9309b0f92}
+      \strng{authorbibnamehash}{68270afa36cbcc633293add9309b0f92}
+      \strng{authornamehash}{68270afa36cbcc633293add9309b0f92}
+      \strng{authorfullhash}{569d67530d8fb1ccf06af96ab176311b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{4}
+      \field{title}{{Trapped-Ion Quantum Computing: Progress and Challenges}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1063/1.5088164
+      \endverb
+      \verb{eprint}
+      \verb 1904.04178
+      \endverb
+    \endentry
+    \entry{vonBurg2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=7b716e95ea75453dcc65e31e72b39ac7}{%
+           family={Burg},
+           familyi={B\bibinitperiod},
+           given={Vera},
+           giveni={V\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=4966d81d5f6729a28f76dd106936081d}{%
+           family={Low},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=41e081bb7f82385c97c7c01e365377e2}{%
+           family={Häner},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ea2588005b5d0d198a044b90c3b819ea}{%
+           family={Steiger},
+           familyi={S\bibinitperiod},
+           given={Damian\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=346cff687f5bcc18d1eab3bf28739bd3}{%
+           family={Reiher},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b97ea375f5b056bd5421ca77bd9be05}{%
+           family={Roetteler},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c9c6f7bc53f6becfa514f545f6acf5e4}{%
+           family={Troyer},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{11c18144ac85d5aa453442ea47f54526}
+      \strng{fullhash}{16abb132df52eef1d95ef4f859cf5614}
+      \strng{bibnamehash}{11c18144ac85d5aa453442ea47f54526}
+      \strng{authorbibnamehash}{11c18144ac85d5aa453442ea47f54526}
+      \strng{authornamehash}{11c18144ac85d5aa453442ea47f54526}
+      \strng{authorfullhash}{16abb132df52eef1d95ef4f859cf5614}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{undefined}
+      \field{title}{{Quantum computing enhanced computational catalysis}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.semanticscholar.org/paper/Quantum-computing-enhanced-computational-catalysis-Burg-Low/1df87ec3b118d35003aca194f5842129284f0a5d
+      \endverb
+      \verb{url}
+      \verb https://www.semanticscholar.org/paper/Quantum-computing-enhanced-computational-catalysis-Burg-Low/1df87ec3b118d35003aca194f5842129284f0a5d
+      \endverb
+    \endentry
+    \entry{Burke2012Apr}{article}{}
+      \name{author}{1}{}{%
+        {{hash=33a535778ce96cdd2d59799deeea173d}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Kieron},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{33a535778ce96cdd2d59799deeea173d}
+      \strng{fullhash}{33a535778ce96cdd2d59799deeea173d}
+      \strng{bibnamehash}{33a535778ce96cdd2d59799deeea173d}
+      \strng{authorbibnamehash}{33a535778ce96cdd2d59799deeea173d}
+      \strng{authornamehash}{33a535778ce96cdd2d59799deeea173d}
+      \strng{authorfullhash}{33a535778ce96cdd2d59799deeea173d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0021-9606}
+      \field{journaltitle}{J. Chem. Phys.}
+      \field{month}{4}
+      \field{number}{15}
+      \field{title}{{Perspective on density functional theory}}
+      \field{volume}{136}
+      \field{year}{2012}
+      \field{pages}{150901}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.4704546
+      \endverb
+    \endentry
+    \entry{Cao2019Oct}{article}{}
+      \name{author}{13}{}{%
+        {{hash=9d14b450758cf26d28129c893c5dbb06}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yudong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8c1a9ea5a335989d4957424b7cc2f7b9}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=433f3ac7774e65b695d791ef0128cddf}{%
+           family={Olson},
+           familyi={O\bibinitperiod},
+           given={Jonathan\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ce554a1b376ee1be7e82f136d4237255}{%
+           family={Degroote},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9831fd95cc14da373cb72142dd856b48}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Peter\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=db2013636ea18059a1f14d4455a59b58}{%
+           family={Kieferová},
+           familyi={K\bibinitperiod},
+           given={Mária},
+           giveni={M\bibinitperiod}}}%
+        {{hash=96586fe81debb62fa36b7cc6d84cde5e}{%
+           family={Kivlichan},
+           familyi={K\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7c555b38206c5fb0ccec33164f55a8ff}{%
+           family={Menke},
+           familyi={M\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=153096fdb393cbbf4ecedbaf5839c3b6}{%
+           family={Peropadre},
+           familyi={P\bibinitperiod},
+           given={Borja},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fa5a81edbec820ec863a0acd11b4283b}{%
+           family={Sawaya},
+           familyi={S\bibinitperiod},
+           given={Nicolas\bibnamedelimb P.\bibnamedelimi D.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f156a71a758735a1cfc0aab991a121e2}{%
+           family={Sim},
+           familyi={S\bibinitperiod},
+           given={Sukin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5639fb699a197e299538fab136606a45}{%
+           family={Veis},
+           familyi={V\bibinitperiod},
+           given={Libor},
+           giveni={L\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{ca24edd932063f74122cbb2f3bd24580}
+      \strng{fullhash}{da91d9eb4c8e905c88267cd39ed1efc6}
+      \strng{bibnamehash}{ca24edd932063f74122cbb2f3bd24580}
+      \strng{authorbibnamehash}{ca24edd932063f74122cbb2f3bd24580}
+      \strng{authornamehash}{ca24edd932063f74122cbb2f3bd24580}
+      \strng{authorfullhash}{da91d9eb4c8e905c88267cd39ed1efc6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0009-2665}
+      \field{journaltitle}{Chem. Rev.}
+      \field{month}{10}
+      \field{number}{19}
+      \field{title}{{Quantum Chemistry in the Age of Quantum Computing}}
+      \field{volume}{119}
+      \field{year}{2019}
+      \field{pages}{10856\bibrangedash 10915}
+      \range{pages}{60}
+      \verb{doi}
+      \verb 10.1021/acs.chemrev.8b00803
+      \endverb
+    \endentry
+    \entry{Cramer2004Sep}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7df73881e72833c6c34f567a34ded383}{%
+           family={Cramer},
+           familyi={C\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{7df73881e72833c6c34f567a34ded383}
+      \strng{fullhash}{7df73881e72833c6c34f567a34ded383}
+      \strng{bibnamehash}{7df73881e72833c6c34f567a34ded383}
+      \strng{authorbibnamehash}{7df73881e72833c6c34f567a34ded383}
+      \strng{authornamehash}{7df73881e72833c6c34f567a34ded383}
+      \strng{authorfullhash}{7df73881e72833c6c34f567a34ded383}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-470-09182-1}
+      \field{month}{9}
+      \field{title}{{Essentials of Computational Chemistry: Theories and Models, 2nd Edition}}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb https://www.wiley.com/en-ie/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821
+      \endverb
+      \verb{url}
+      \verb https://www.wiley.com/en-ie/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821
+      \endverb
+    \endentry
+    \entry{Elfving2020Sep}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e773c30536cd7fddb4e206015912bfc3}{%
+           family={Elfving},
+           familyi={E\bibinitperiod},
+           given={V.\bibnamedelimi E.},
+           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=389d2746892b343363c9baa834851fba}{%
+           family={Broer},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=fc0d8497cf1b2919e64662a5eb5aa0f1}{%
+           family={Webber},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6fc7750d4e90a57e901e17df5edb3a51}{%
+           family={Gavartin},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d4073746b5fbbd268aa6f9b625500691}{%
+           family={Halls},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5cb25f4a5e1dba4acf6fc2370b0ccd1f}{%
+           family={Lorton},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi P.},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=1fab5189b785c7b0a79827815a64fd5b}{%
+           family={Bochevarov},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ece14ae3bb14586da754a5982a10a71}
+      \strng{fullhash}{d21f1c36dca50161cfcecbe50b439550}
+      \strng{bibnamehash}{8ece14ae3bb14586da754a5982a10a71}
+      \strng{authorbibnamehash}{8ece14ae3bb14586da754a5982a10a71}
+      \strng{authornamehash}{8ece14ae3bb14586da754a5982a10a71}
+      \strng{authorfullhash}{d21f1c36dca50161cfcecbe50b439550}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{9}
+      \field{title}{{How will quantum computers provide an industrially relevant computational advantage in quantum chemistry?}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.48550/arXiv.2009.12472
+      \endverb
+      \verb{eprint}
+      \verb 2009.12472
+      \endverb
+    \endentry
+    \entry{Feynman1982Jun}{article}{}
+      \name{author}{1}{}{%
+        {{hash=aac54ccf9c76aa4ba4310ed1334be7d8}{%
+           family={Feynman},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers-Plenum Publishers}%
+      }
+      \strng{namehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{fullhash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{bibnamehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{authorbibnamehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{authornamehash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \strng{authorfullhash}{aac54ccf9c76aa4ba4310ed1334be7d8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1572-9575}
+      \field{journaltitle}{Int. J. Theor. Phys.}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Simulating physics with computers}}
+      \field{volume}{21}
+      \field{year}{1982}
+      \field{pages}{467\bibrangedash 488}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/BF02650179
+      \endverb
+    \endentry
+    \entry{Gokhale2019Jul}{article}{}
+      \name{author}{8}{}{%
+        {{hash=f81b959a274cf858af12371d973186a4}{%
+           family={Gokhale},
+           familyi={G\bibinitperiod},
+           given={Pranav},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f082953cb70161b87a0869d90d9bb16a}{%
+           family={Angiuli},
+           familyi={A\bibinitperiod},
+           given={Olivia},
+           giveni={O\bibinitperiod}}}%
+        {{hash=42c19e7d8e4f58481c6b4e4d73a06715}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yongshan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=63bbc5626b2af9fc59d7a7d1b49ef1eb}{%
+           family={Gui},
+           familyi={G\bibinitperiod},
+           given={Kaiwen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1adb469c4a0a4ad3b690a85068ae396a}{%
+           family={Tomesh},
+           familyi={T\bibinitperiod},
+           given={Teague},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d000a1b24e892d6c31367f83ed18564e}{%
+           family={Suchara},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=51a2ecd59392c7fa73fa8648cea933be}{%
+           family={Martonosi},
+           familyi={M\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3dc30ce8848da64646a981d48b5d2701}{%
+           family={Chong},
+           familyi={C\bibinitperiod},
+           given={Frederic\bibnamedelima T.},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f4cd699cb4b7364b2d54d7226315200}
+      \strng{fullhash}{80109502c6ee6a4810ef8c5cd3d45733}
+      \strng{bibnamehash}{0f4cd699cb4b7364b2d54d7226315200}
+      \strng{authorbibnamehash}{0f4cd699cb4b7364b2d54d7226315200}
+      \strng{authornamehash}{0f4cd699cb4b7364b2d54d7226315200}
+      \strng{authorfullhash}{80109502c6ee6a4810ef8c5cd3d45733}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{7}
+      \field{title}{{Minimizing State Preparations in Variational Quantum Eigensolver by Partitioning into Commuting Families}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.48550/arXiv.1907.13623
+      \endverb
+      \verb{eprint}
+      \verb 1907.13623
+      \endverb
+    \endentry
+    \entry{Gonthier2020Dec}{article}{}
+      \name{author}{6}{}{%
+        {{hash=155c838d78606b98b20e5bb2643ec3e3}{%
+           family={Gonthier},
+           familyi={G\bibinitperiod},
+           given={Jérôme\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=2f7a459804673a67a39225ddbd1e3203}{%
+           family={Radin},
+           familyi={R\bibinitperiod},
+           given={Maxwell\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=80f1ebdf8e04bf748943ecd465ad27a8}{%
+           family={Buda},
+           familyi={B\bibinitperiod},
+           given={Corneliu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cf1a4f05a9f2888fed6bf7ed935aa43e}{%
+           family={Doskocil},
+           familyi={D\bibinitperiod},
+           given={Eric\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b65ab39fc311348f170cc170517eb966}{%
+           family={Abuan},
+           familyi={A\bibinitperiod},
+           given={Clena\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8f9134b2a339d4d03e64894e334012ac}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Jhonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{79b4e99afe9b3c93205d1194d2f49241}
+      \strng{fullhash}{b0432d0811cb9eb2dee69cb1af7677c6}
+      \strng{bibnamehash}{79b4e99afe9b3c93205d1194d2f49241}
+      \strng{authorbibnamehash}{79b4e99afe9b3c93205d1194d2f49241}
+      \strng{authornamehash}{79b4e99afe9b3c93205d1194d2f49241}
+      \strng{authorfullhash}{b0432d0811cb9eb2dee69cb1af7677c6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{12}
+      \field{title}{{Identifying challenges towards practical quantum advantage through resource estimation: the measurement roadblock in the variational quantum eigensolver}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.48550/arXiv.2012.04001
+      \endverb
+      \verb{eprint}
+      \verb 2012.04001
+      \endverb
+    \endentry
+    \entry{Grover1996Jul}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=619ef89ee12058aba6b0df9b17b11ca3}{%
+           family={Grover},
+           familyi={G\bibinitperiod},
+           given={Lov\bibnamedelima K.},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{fullhash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{bibnamehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{authorbibnamehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{authornamehash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \strng{authorfullhash}{619ef89ee12058aba6b0df9b17b11ca3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{STOC '96: Proceedings of the twenty-eighth annual ACM symposium on Theory of Computing}}
+      \field{month}{7}
+      \field{title}{{A fast quantum mechanical algorithm for database search}}
+      \field{year}{1996}
+      \field{pages}{212\bibrangedash 219}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/237814.237866
+      \endverb
+    \endentry
+    \entry{BibEntry2006Aug}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8f5ae327771c8059cd83770f74a74b40}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={Nicholas\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f5ae327771c8059cd83770f74a74b40}
+      \strng{fullhash}{8f5ae327771c8059cd83770f74a74b40}
+      \strng{bibnamehash}{8f5ae327771c8059cd83770f74a74b40}
+      \strng{authorbibnamehash}{8f5ae327771c8059cd83770f74a74b40}
+      \strng{authornamehash}{8f5ae327771c8059cd83770f74a74b40}
+      \strng{authorfullhash}{8f5ae327771c8059cd83770f74a74b40}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{month}{8}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://www.ch.imperial.ac.uk/harrison/Teaching/DFT_NATO.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ch.imperial.ac.uk/harrison/Teaching/DFT_NATO.pdf
+      \endverb
+    \endentry
+    \entry{Huggins2022Mar}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7fa5a969d13c5644cd314c51cd157fe0}{%
+           family={Huggins},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=de032393631c1fd4510e45182bcaf23d}{%
+           family={O{'}Gorman},
+           familyi={O\bibinitperiod},
+           given={Bryan\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=79a0c3f2d2ac6a6e26b1e6e488c3b198}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Nicholas\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7c074bea2e8bcd032bc168bd6ebaa67f}{%
+           family={Reichman},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7bb1dcf8a93d1ecc6f9531ece93ef1fa}{%
+           family={Babbush},
+           familyi={B\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d333f9325f8f60f584e433bef783b3b3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Joonho},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d4f5cfb987fd8432df8b16de414f6197}
+      \strng{fullhash}{2b1a9bd9ed2a3d0131291468af406b85}
+      \strng{bibnamehash}{d4f5cfb987fd8432df8b16de414f6197}
+      \strng{authorbibnamehash}{d4f5cfb987fd8432df8b16de414f6197}
+      \strng{authornamehash}{d4f5cfb987fd8432df8b16de414f6197}
+      \strng{authorfullhash}{2b1a9bd9ed2a3d0131291468af406b85}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{3}
+      \field{title}{{Unbiasing fermionic quantum Monte Carlo with a quantum computer}}
+      \field{volume}{603}
+      \field{year}{2022}
+      \field{pages}{416\bibrangedash 420}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/s41586-021-04351-z
+      \endverb
+    \endentry
+    \entry{BibEntry2022Sep}{misc}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IBM Quantum}
+      \field{month}{9}
+      \field{note}{[Online; accessed 29. Sep. 2022]}
+      \field{title}{{IBM Quantum}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://quantum-computing.ibm.com/services/resources
+      \endverb
+      \verb{url}
+      \verb https://quantum-computing.ibm.com/services/resources
+      \endverb
+    \endentry
+    \entry{Jensen2011Dec}{book}{}
+      \name{author}{1}{}{%
+        {{hash=07272f7b37bc95d4f9e9ac01efc83dcf}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{07272f7b37bc95d4f9e9ac01efc83dcf}
+      \strng{fullhash}{07272f7b37bc95d4f9e9ac01efc83dcf}
+      \strng{bibnamehash}{07272f7b37bc95d4f9e9ac01efc83dcf}
+      \strng{authorbibnamehash}{07272f7b37bc95d4f9e9ac01efc83dcf}
+      \strng{authornamehash}{07272f7b37bc95d4f9e9ac01efc83dcf}
+      \strng{authorfullhash}{07272f7b37bc95d4f9e9ac01efc83dcf}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-47001187-4}
+      \field{month}{12}
+      \field{title}{{Introduction to Computational Chemistry}}
+      \field{year}{2011}
+    \endentry
+    \entry{Kim2021Apr}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ec2c789fb2a61abbe9cca61ea617522a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Isaac\bibnamedelima H.},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=777a4558e9fa68adcbfb94822bf6f3d2}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Eunseok},
+           giveni={E\bibinitperiod}}}%
+        {{hash=01530eb69dfdab47c45685c3423784bf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ye-Hua},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=51bbb27e09a734d6e22c23c93badd3aa}{%
+           family={Pallister},
+           familyi={P\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f30b144b73c26c43afbb6ea60a7809a3}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b71bb2252b9256239045407a628b93ce}
+      \strng{fullhash}{7d44f49bab5f4b49c7e6fe8bfe203cc5}
+      \strng{bibnamehash}{b71bb2252b9256239045407a628b93ce}
+      \strng{authorbibnamehash}{b71bb2252b9256239045407a628b93ce}
+      \strng{authornamehash}{b71bb2252b9256239045407a628b93ce}
+      \strng{authorfullhash}{7d44f49bab5f4b49c7e6fe8bfe203cc5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ResearchGate}
+      \field{month}{4}
+      \field{title}{{Fault-tolerant resource estimate for quantum chemical simulations: Case study on Li-ion battery electrolyte molecules}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/351046677_Fault-tolerant_resource_estimate_for_quantum_chemical_simulations_Case_study_on_Li-ion_battery_electrolyte_molecules
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/351046677_Fault-tolerant_resource_estimate_for_quantum_chemical_simulations_Case_study_on_Li-ion_battery_electrolyte_molecules
+      \endverb
+    \endentry
+    \entry{Kottmann2020Nov}{article}{}
+      \name{author}{18}{}{%
+        {{hash=107b712d1e1d0da12ec456450de4e440}{%
+           family={Kottmann},
+           familyi={K\bibinitperiod},
+           given={Jakob\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=61ad4aae7993ccc474ac720659abf6c3}{%
+           family={Alperin-Lea},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Sumner},
+           giveni={S\bibinitperiod}}}%
+        {{hash=04069de0f3490f373cf7c5d5151a8805}{%
+           family={Tamayo-Mendoza},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5a2b5e34618e120705e762927644cf0a}{%
+           family={Cervera-Lierta},
+           familyi={C\bibinithyphendelim L\bibinitperiod},
+           given={Alba},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b0a4dd73dad6016bec52101a9e468e07}{%
+           family={Lavigne},
+           familyi={L\bibinitperiod},
+           given={Cyrille},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6250c44e549f957b1a4d3e9d37bf2b10}{%
+           family={Yen},
+           familyi={Y\bibinitperiod},
+           given={Tzu-Ching},
+           giveni={T\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=5e8a83cc4f0f458d9b80f127569034a0}{%
+           family={Verteletskyi},
+           familyi={V\bibinitperiod},
+           given={Vladyslav},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8283ee2debdcc5b517827b1919c53983}{%
+           family={Schleich},
+           familyi={S\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=985f06ea28010d41b98c55dadf1cf6e5}{%
+           family={Anand},
+           familyi={A\bibinitperiod},
+           given={Abhinav},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ce554a1b376ee1be7e82f136d4237255}{%
+           family={Degroote},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a7be417a37f624b2e21203d60cb503dc}{%
+           family={Chaney},
+           familyi={C\bibinitperiod},
+           given={Skylar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f0a41bae802b79f5da79a95dd4f53395}{%
+           family={Kesibi},
+           familyi={K\bibinitperiod},
+           given={Maha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e587cbd2162e85ff51412bce86d95c2}{%
+           family={Curnow},
+           familyi={C\bibinitperiod},
+           given={Naomi\bibnamedelima Grace},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=574be2177b2a4857c9baba21198c84ae}{%
+           family={Solo},
+           familyi={S\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ab8cf56fcf14e4e2b49b37f7c123d911}{%
+           family={Tsilimigkounakis},
+           familyi={T\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cdd67ccdf36e08e3c0c86cb48feb8dd1}{%
+           family={Zendejas-Morales},
+           familyi={Z\bibinithyphendelim M\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=445cd11464a7964a850da38cf166c1c3}{%
+           family={Izmaylov},
+           familyi={I\bibinitperiod},
+           given={Artur\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ebf4d67ebaf2ea467eb5138fe8e1dfe}
+      \strng{fullhash}{a459139524033503e56bf3c6ce8067ad}
+      \strng{bibnamehash}{8ebf4d67ebaf2ea467eb5138fe8e1dfe}
+      \strng{authorbibnamehash}{8ebf4d67ebaf2ea467eb5138fe8e1dfe}
+      \strng{authornamehash}{8ebf4d67ebaf2ea467eb5138fe8e1dfe}
+      \strng{authorfullhash}{a459139524033503e56bf3c6ce8067ad}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{11}
+      \field{title}{{Tequila: A platform for rapid development of quantum algorithms}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1088/2058-9565/abe567
+      \endverb
+      \verb{eprint}
+      \verb 2011.03057
+      \endverb
+    \endentry
+    \entry{Lee2020Nov}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d333f9325f8f60f584e433bef783b3b3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Joonho},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e0053050bdc2ad78d707462c41ad32d3}{%
+           family={Berry},
+           familyi={B\bibinitperiod},
+           given={Dominic\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=0101a428978c8ddc038880b7a77afd98}{%
+           family={Gidney},
+           familyi={G\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7fa5a969d13c5644cd314c51cd157fe0}{%
+           family={Huggins},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a253ddc1c4c24cde70238bd45dc9aeff}{%
+           family={McClean},
+           familyi={M\bibinitperiod},
+           given={Jarrod\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9906b78ec80183f9ac5008ae54ce7088}{%
+           family={Wiebe},
+           familyi={W\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7bb1dcf8a93d1ecc6f9531ece93ef1fa}{%
+           family={Babbush},
+           familyi={B\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{fullhash}{9e9849119ff74f17655241861a94d42c}
+      \strng{bibnamehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{authorbibnamehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{authornamehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{authorfullhash}{9e9849119ff74f17655241861a94d42c}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{11}
+      \field{title}{{Even more efficient quantum computations of chemistry through tensor hypercontraction}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1103/PRXQuantum.2.030305
+      \endverb
+      \verb{eprint}
+      \verb 2011.03494
+      \endverb
+    \endentry
+    \entry{Lee2019Jan}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d333f9325f8f60f584e433bef783b3b3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Joonho},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7fa5a969d13c5644cd314c51cd157fe0}{%
+           family={Huggins},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{%
+           family={Head-Gordon},
+           familyi={H\bibinithyphendelim G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2f4127ee3dcfdba45d94135b2fa6cdfb}{%
+           family={Whaley},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi Birgitta},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{fullhash}{f23ecbe3a65ca118a3f43048379b9e04}
+      \strng{bibnamehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{authorbibnamehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{authornamehash}{c9e1af5c6a824651bcbf8e6bcbe150fd}
+      \strng{authorfullhash}{f23ecbe3a65ca118a3f43048379b9e04}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1549-9618}
+      \field{journaltitle}{J. Chem. Theory Comput.}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Generalized Unitary Coupled Cluster Wave functions for Quantum Computation}}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{pages}{311\bibrangedash 324}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1021/acs.jctc.8b01004
+      \endverb
+    \endentry
+    \entry{Lloyd1996Aug}{article}{}
+      \name{author}{1}{}{%
+        {{hash=501c0933970931f080455b29b43e560d}{%
+           family={Lloyd},
+           familyi={L\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{501c0933970931f080455b29b43e560d}
+      \strng{fullhash}{501c0933970931f080455b29b43e560d}
+      \strng{bibnamehash}{501c0933970931f080455b29b43e560d}
+      \strng{authorbibnamehash}{501c0933970931f080455b29b43e560d}
+      \strng{authornamehash}{501c0933970931f080455b29b43e560d}
+      \strng{authorfullhash}{501c0933970931f080455b29b43e560d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{8}
+      \field{number}{5278}
+      \field{title}{{Universal Quantum Simulators}}
+      \field{volume}{273}
+      \field{year}{1996}
+      \field{pages}{1073\bibrangedash 1078}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1126/science.273.5278.1073
+      \endverb
+    \endentry
+    \entry{Lucero2021May}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1ca86a6dfd219877ce431f01a165a869}{%
+           family={Lucero},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google}%
+      }
+      \strng{namehash}{1ca86a6dfd219877ce431f01a165a869}
+      \strng{fullhash}{1ca86a6dfd219877ce431f01a165a869}
+      \strng{bibnamehash}{1ca86a6dfd219877ce431f01a165a869}
+      \strng{authorbibnamehash}{1ca86a6dfd219877ce431f01a165a869}
+      \strng{authornamehash}{1ca86a6dfd219877ce431f01a165a869}
+      \strng{authorfullhash}{1ca86a6dfd219877ce431f01a165a869}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Google}
+      \field{month}{5}
+      \field{title}{{Unveiling our new Quantum AI campus}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus
+      \endverb
+      \verb{url}
+      \verb https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus
+      \endverb
+    \endentry
+    \entry{Ma2020Jul}{article}{}
+      \name{author}{3}{}{%
+        {{hash=823f20506c600e39cd3a6de87c78df71}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={He},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9b152b90d372ea748fc9b048d0c62874}{%
+           family={Govoni},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a445f4adf3884b1260180426357334a6}{%
+           family={Galli},
+           familyi={G\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{93c1938113d3cd391b2784997838ed3c}
+      \strng{fullhash}{93c1938113d3cd391b2784997838ed3c}
+      \strng{bibnamehash}{93c1938113d3cd391b2784997838ed3c}
+      \strng{authorbibnamehash}{93c1938113d3cd391b2784997838ed3c}
+      \strng{authornamehash}{93c1938113d3cd391b2784997838ed3c}
+      \strng{authorfullhash}{93c1938113d3cd391b2784997838ed3c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2057-3960}
+      \field{journaltitle}{npj Comput. Mater.}
+      \field{month}{7}
+      \field{number}{85}
+      \field{title}{{Quantum simulations of materials on near-term quantum computers}}
+      \field{volume}{6}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1038/s41524-020-00353-z
+      \endverb
+    \endentry
+    \entry{Materise2017Aug}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2f5006d18fa9b4a56510d3190830aba4}{%
+           family={Materise},
+           familyi={M\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f5006d18fa9b4a56510d3190830aba4}
+      \strng{fullhash}{2f5006d18fa9b4a56510d3190830aba4}
+      \strng{bibnamehash}{2f5006d18fa9b4a56510d3190830aba4}
+      \strng{authorbibnamehash}{2f5006d18fa9b4a56510d3190830aba4}
+      \strng{authornamehash}{2f5006d18fa9b4a56510d3190830aba4}
+      \strng{authorfullhash}{2f5006d18fa9b4a56510d3190830aba4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{8}
+      \field{title}{{An Introduction to Superconducting Qubits and Circuit Quantum Electrodynamics}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1007/978-3-319-92726-8_10
+      \endverb
+      \verb{eprint}
+      \verb 1708.07000
+      \endverb
+    \endentry
+    \entry{McArdle2020Mar}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3daf73fd06a4958752298e706cc55a5a}{%
+           family={McArdle},
+           familyi={M\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c3acfc5e323c389790b828fbf6955f09}{%
+           family={Endo},
+           familyi={E\bibinitperiod},
+           given={Suguru},
+           giveni={S\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b10a34e16a501939634880eade0cec5e}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Simon\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=001b5a60b43cad93e93a32a46ae0c874}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{effc795ef39c881daa1ba1650e02594b}
+      \strng{fullhash}{5f29953c0d828b365afbef814aaad6df}
+      \strng{bibnamehash}{effc795ef39c881daa1ba1650e02594b}
+      \strng{authorbibnamehash}{effc795ef39c881daa1ba1650e02594b}
+      \strng{authornamehash}{effc795ef39c881daa1ba1650e02594b}
+      \strng{authorfullhash}{5f29953c0d828b365afbef814aaad6df}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1539-0756}
+      \field{journaltitle}{Rev. Mod. Phys.}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{{Quantum computational chemistry}}
+      \field{volume}{92}
+      \field{year}{2020}
+      \field{pages}{015003}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.92.015003
+      \endverb
+    \endentry
+    \entry{McClean2016Feb}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a253ddc1c4c24cde70238bd45dc9aeff}{%
+           family={McClean},
+           familyi={M\bibinitperiod},
+           given={Jarrod\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8c1a9ea5a335989d4957424b7cc2f7b9}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7bb1dcf8a93d1ecc6f9531ece93ef1fa}{%
+           family={Babbush},
+           familyi={B\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{836c04a8ead66d709fbf0afad5433010}
+      \strng{fullhash}{7e5c493347d687b6e14dc4b030f9aa64}
+      \strng{bibnamehash}{836c04a8ead66d709fbf0afad5433010}
+      \strng{authorbibnamehash}{836c04a8ead66d709fbf0afad5433010}
+      \strng{authornamehash}{836c04a8ead66d709fbf0afad5433010}
+      \strng{authorfullhash}{7e5c493347d687b6e14dc4b030f9aa64}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-2630}
+      \field{journaltitle}{New J. Phys.}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{{The theory of variational hybrid quantum-classical algorithms}}
+      \field{volume}{18}
+      \field{year}{2016}
+      \field{pages}{023023}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1367-2630/18/2/023023
+      \endverb
+    \endentry
+    \entry{Motta2021Dec}{article}{}
+      \name{author}{2}{}{%
+        {{hash=336c60bdadf6471997c9682dacd211a2}{%
+           family={Motta},
+           familyi={M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=af2cff9e3c8cde2749104c6e1a1a9a8d}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={Julia\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons Inc}%
+      }
+      \strng{namehash}{b2a06eb93baf18cfa51c716a0fa6a2b4}
+      \strng{fullhash}{b2a06eb93baf18cfa51c716a0fa6a2b4}
+      \strng{bibnamehash}{b2a06eb93baf18cfa51c716a0fa6a2b4}
+      \strng{authorbibnamehash}{b2a06eb93baf18cfa51c716a0fa6a2b4}
+      \strng{authornamehash}{b2a06eb93baf18cfa51c716a0fa6a2b4}
+      \strng{authorfullhash}{b2a06eb93baf18cfa51c716a0fa6a2b4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1759-0876}
+      \field{journaltitle}{WIREs Comput. Mol. Sci.}
+      \field{month}{12}
+      \field{title}{{Emerging quantum computing algorithms for quantum chemistry}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1002/wcms.1580
+      \endverb
+    \endentry
+    \entry{Nest2008Nov}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a60518a5d7b143e87ef0c19cb120954e}{%
+           family={Nest},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi Van\bibnamedelima den},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{a60518a5d7b143e87ef0c19cb120954e}
+      \strng{fullhash}{a60518a5d7b143e87ef0c19cb120954e}
+      \strng{bibnamehash}{a60518a5d7b143e87ef0c19cb120954e}
+      \strng{authorbibnamehash}{a60518a5d7b143e87ef0c19cb120954e}
+      \strng{authornamehash}{a60518a5d7b143e87ef0c19cb120954e}
+      \strng{authorfullhash}{a60518a5d7b143e87ef0c19cb120954e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{11}
+      \field{title}{{Classical simulation of quantum computation, the Gottesman-Knill theorem, and slightly beyond}}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.48550/arXiv.0811.0898
+      \endverb
+      \verb{eprint}
+      \verb 0811.0898
+      \endverb
+    \endentry
+    \entry{Nielsen2010Dec}{book}{}
+      \name{author}{2}{}{%
+        {{hash=afe17482fc813e497188aee3b3783879}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=415ddff2f58b25977b1a2dedf18f4501}{%
+           family={Chuang},
+           familyi={C\bibinitperiod},
+           given={Isaac\bibnamedelima L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, England, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{456599bb4a61c2e997e2a7e1a21b25b4}
+      \strng{fullhash}{456599bb4a61c2e997e2a7e1a21b25b4}
+      \strng{bibnamehash}{456599bb4a61c2e997e2a7e1a21b25b4}
+      \strng{authorbibnamehash}{456599bb4a61c2e997e2a7e1a21b25b4}
+      \strng{authornamehash}{456599bb4a61c2e997e2a7e1a21b25b4}
+      \strng{authorfullhash}{456599bb4a61c2e997e2a7e1a21b25b4}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-51197666-7}
+      \field{journaltitle}{Higher Education from Cambridge University Press}
+      \field{month}{12}
+      \field{title}{{Quantum Computation and Quantum Information: 10th Anniversary Edition}}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1017/CBO9780511976667
+      \endverb
+    \endentry
+    \entry{Peruzzo2014Jul}{article}{}
+      \name{author}{8}{}{%
+        {{hash=da632f662bb1ab5c3e05ddb80b6cd201}{%
+           family={Peruzzo},
+           familyi={P\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=44d80c9bccbe7462fe524bbf9cd54a08}{%
+           family={McClean},
+           familyi={M\bibinitperiod},
+           given={Jarrod},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0ad2cf76d13d7b9fb852ca865569241}{%
+           family={Shadbolt},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cbadbf9460f01d20432bc4fb34345309}{%
+           family={Yung},
+           familyi={Y\bibinitperiod},
+           given={Man-Hong},
+           giveni={M\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=30e428aa9e63bc24127324a4c1fefabc}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiao-Qi},
+           giveni={X\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=2d8133b5eb867e28af9ca9ea41105b5c}{%
+           family={Love},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=083dcdd0db2687433b22fabfb2e55c17}{%
+           family={Aspuru-Guzik},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Alán},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8e4de768a4ced864e5f9490e6a67454}{%
+           family={O{'}Brien},
+           familyi={O\bibinitperiod},
+           given={Jeremy\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{bddcbb30e0909355294b8653d4787a0e}
+      \strng{fullhash}{16fda0acd29f1276c07270659e70cdff}
+      \strng{bibnamehash}{bddcbb30e0909355294b8653d4787a0e}
+      \strng{authorbibnamehash}{bddcbb30e0909355294b8653d4787a0e}
+      \strng{authornamehash}{bddcbb30e0909355294b8653d4787a0e}
+      \strng{authorfullhash}{16fda0acd29f1276c07270659e70cdff}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nat. Commun.}
+      \field{month}{7}
+      \field{number}{4213}
+      \field{title}{{A variational eigenvalue solver on a photonic quantum processor}}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/ncomms5213
+      \endverb
+    \endentry
+    \entry{Poirier2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4fe82ad366664c1391ad0700c4785fb4}{%
+           family={Poirier},
+           familyi={P\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fe82ad366664c1391ad0700c4785fb4}
+      \strng{fullhash}{4fe82ad366664c1391ad0700c4785fb4}
+      \strng{bibnamehash}{4fe82ad366664c1391ad0700c4785fb4}
+      \strng{authorbibnamehash}{4fe82ad366664c1391ad0700c4785fb4}
+      \strng{authornamehash}{4fe82ad366664c1391ad0700c4785fb4}
+      \strng{authorfullhash}{4fe82ad366664c1391ad0700c4785fb4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{eScholarship@McGill}
+      \field{title}{{Born-Oppenheimer molecular dynamics using the variational quantum eigensolver}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://escholarship.mcgill.ca/concern/theses/fn107335s
+      \endverb
+      \verb{url}
+      \verb https://escholarship.mcgill.ca/concern/theses/fn107335s
+      \endverb
+    \endentry
+    \entry{Preskill2018Aug}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fbe61da8813855105d0c727fa93b4b4d}{%
+           family={Preskill},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verein zur Förderung des Open Access Publizierens in den Quantenwissenschaften}%
+      }
+      \strng{namehash}{fbe61da8813855105d0c727fa93b4b4d}
+      \strng{fullhash}{fbe61da8813855105d0c727fa93b4b4d}
+      \strng{bibnamehash}{fbe61da8813855105d0c727fa93b4b4d}
+      \strng{authorbibnamehash}{fbe61da8813855105d0c727fa93b4b4d}
+      \strng{authornamehash}{fbe61da8813855105d0c727fa93b4b4d}
+      \strng{authorfullhash}{fbe61da8813855105d0c727fa93b4b4d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantum}
+      \field{month}{8}
+      \field{title}{{Quantum Computing in the NISQ era and beyond}}
+      \field{volume}{2}
+      \field{year}{2018}
+      \field{pages}{79}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.22331/q-2018-08-06-79
+      \endverb
+      \verb{eprint}
+      \verb 1801.00862v3
+      \endverb
+    \endentry
+    \entry{BibEntry2022May}{misc}{}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{[Online; accessed 30. Sep. 2022]}
+      \field{title}{{Quantum computing {$\vert$} Arthur D. Little}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.adlittle.com/en/insights/viewpoints/quantum-computing
+      \endverb
+      \verb{url}
+      \verb https://www.adlittle.com/en/insights/viewpoints/quantum-computing
+      \endverb
+    \endentry
+    \entry{BibEntry2022Aug}{misc}{}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{[Online; accessed 30. Aug. 2022]}
+      \field{title}{{Quantum computing with superconducting qubits {\ifmmode---\else—\fi} PennyLane documentation}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://pennylane.ai/qml/demos/tutorial_sc_qubits.html
+      \endverb
+      \verb{url}
+      \verb https://pennylane.ai/qml/demos/tutorial_sc_qubits.html
+      \endverb
+    \endentry
+    \entry{Reiher2017Jul}{article}{}
+      \name{author}{5}{}{%
+        {{hash=101a884703c155ac5ca9bc3f658bcc99}{%
+           family={Reiher},
+           familyi={R\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9906b78ec80183f9ac5008ae54ce7088}{%
+           family={Wiebe},
+           familyi={W\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1e0b27cffef483b809894bbe98096b26}{%
+           family={Svore},
+           familyi={S\bibinitperiod},
+           given={Krysta\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=efcf6e85ae6db8576299902ff937b539}{%
+           family={Wecker},
+           familyi={W\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8c95c0b716ad4a10a2ab4370aca0d0ca}{%
+           family={Troyer},
+           familyi={T\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {See full text options at Atypon}%
+      }
+      \strng{namehash}{5eab1aeb0480339d0a43d14eb269c3aa}
+      \strng{fullhash}{40236c007f2f78ad404d9a71ddc13f51}
+      \strng{bibnamehash}{5eab1aeb0480339d0a43d14eb269c3aa}
+      \strng{authorbibnamehash}{5eab1aeb0480339d0a43d14eb269c3aa}
+      \strng{authornamehash}{5eab1aeb0480339d0a43d14eb269c3aa}
+      \strng{authorfullhash}{40236c007f2f78ad404d9a71ddc13f51}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1091-6490}
+      \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
+      \field{month}{7}
+      \field{number}{29}
+      \field{title}{{Elucidating reaction mechanisms on quantum computers}}
+      \field{volume}{114}
+      \field{year}{2017}
+      \field{pages}{7555\bibrangedash 7560}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1619152114
+      \endverb
+      \verb{eprint}
+      \verb 28674011
+      \endverb
+    \endentry
+    \entry{Shikano2021Jun}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1f3eb0cf4a03d18a51d117da2ff2b564}{%
+           family={Shikano},
+           familyi={S\bibinitperiod},
+           given={Yutaka},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a9139eb07330a44853e034d0e1e32e7c}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={Hiroshi\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fd2de2f960414ecc2515b892c2a13ab4}{%
+           family={Nakanishi},
+           familyi={N\bibinitperiod},
+           given={Ken\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9ac8937c9a817015914e262086f907e0}{%
+           family={Ohnishi},
+           familyi={O\bibinitperiod},
+           given={Yu-ya},
+           giveni={Y\bibinithyphendelim y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{b2544190128a528bbe363ede389a1e4e}
+      \strng{fullhash}{53350ce5d98e26f68ea8d498bc1a369f}
+      \strng{bibnamehash}{b2544190128a528bbe363ede389a1e4e}
+      \strng{authorbibnamehash}{b2544190128a528bbe363ede389a1e4e}
+      \strng{authornamehash}{b2544190128a528bbe363ede389a1e4e}
+      \strng{authorfullhash}{53350ce5d98e26f68ea8d498bc1a369f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1951-6401}
+      \field{journaltitle}{Eur. Phys. J. Spec. Top.}
+      \field{month}{6}
+      \field{number}{4}
+      \field{title}{{Post-Hartree-Fock method in quantum chemistry for quantum computer}}
+      \field{volume}{230}
+      \field{year}{2021}
+      \field{pages}{1037\bibrangedash 1051}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1140/epjs/s11734-021-00087-z
+      \endverb
+    \endentry
+    \entry{Shor1994Nov}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a24fb60f0ae3752c34144e38865ecca9}{%
+           family={Shor},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a24fb60f0ae3752c34144e38865ecca9}
+      \strng{fullhash}{a24fb60f0ae3752c34144e38865ecca9}
+      \strng{bibnamehash}{a24fb60f0ae3752c34144e38865ecca9}
+      \strng{authorbibnamehash}{a24fb60f0ae3752c34144e38865ecca9}
+      \strng{authornamehash}{a24fb60f0ae3752c34144e38865ecca9}
+      \strng{authorfullhash}{a24fb60f0ae3752c34144e38865ecca9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings 35th Annual Symposium on Foundations of Computer Science}}
+      \field{month}{11}
+      \field{title}{{Algorithms for quantum computation: discrete logarithms and factoring}}
+      \field{year}{1994}
+      \field{pages}{124\bibrangedash 134}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/SFCS.1994.365700
+      \endverb
+    \endentry
+    \entry{Stanisic2021Dec}{article}{}
+      \name{author}{8}{}{%
+        {{hash=6bfe2fcbe7e4d55af6ce6075218e9c5e}{%
+           family={Stanisic},
+           familyi={S\bibinitperiod},
+           given={Stasja},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a133282f8c1923a71b796f7ece53ef70}{%
+           family={Bosse},
+           familyi={B\bibinitperiod},
+           given={Jan\bibnamedelima Lukas},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3213f1136656412c9851000cac949e61}{%
+           family={Gambetta},
+           familyi={G\bibinitperiod},
+           given={Filippo\bibnamedelima Maria},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7f854088e540a0c681dc107a31bd1ed6}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Raul\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=918d7c8a2ede776a016f5b0c38bd66d9}{%
+           family={Mruczkiewicz},
+           familyi={M\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod}}}%
+        {{hash=cb3e30e7e7df4228662c8810b3c2f7e2}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Thomas\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=2d89c5708f0f2aa0a4f4358d53bfc901}{%
+           family={Ostby},
+           familyi={O\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=bd78a1f9d6e5f3fbbf33e0967436bb75}{%
+           family={Montanaro},
+           familyi={M\bibinitperiod},
+           given={Ashley},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{28f523d8813b793a013defc97bf87b8b}
+      \strng{fullhash}{ff54eb4cd1b5e5da2e8235b7addec9cf}
+      \strng{bibnamehash}{28f523d8813b793a013defc97bf87b8b}
+      \strng{authorbibnamehash}{28f523d8813b793a013defc97bf87b8b}
+      \strng{authornamehash}{28f523d8813b793a013defc97bf87b8b}
+      \strng{authorfullhash}{ff54eb4cd1b5e5da2e8235b7addec9cf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{12}
+      \field{title}{{Observing ground-state properties of the Fermi-Hubbard model using a scalable algorithm on a quantum computer}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.48550/arXiv.2112.02025
+      \endverb
+      \verb{eprint}
+      \verb 2112.02025
+      \endverb
+    \endentry
+    \entry{Szabo1996Jul}{book}{}
+      \name{author}{2}{}{%
+        {{hash=dc52ed3315ff506a9d4fe6a0ab079ae2}{%
+           family={Szabo},
+           familyi={S\bibinitperiod},
+           given={Attila},
+           giveni={A\bibinitperiod}}}%
+        {{hash=977f18e68b981d3d80b363ccb7cbeab7}{%
+           family={Ostlund},
+           familyi={O\bibinitperiod},
+           given={Neil\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mineola, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publications}%
+      }
+      \strng{namehash}{7e4e963df06b39584349eaf439922455}
+      \strng{fullhash}{7e4e963df06b39584349eaf439922455}
+      \strng{bibnamehash}{7e4e963df06b39584349eaf439922455}
+      \strng{authorbibnamehash}{7e4e963df06b39584349eaf439922455}
+      \strng{authornamehash}{7e4e963df06b39584349eaf439922455}
+      \strng{authorfullhash}{7e4e963df06b39584349eaf439922455}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-48669186-2}
+      \field{month}{7}
+      \field{title}{{Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory (Dover Books on Chemistry)}}
+      \field{year}{1996}
+    \endentry
+    \entry{Tilly2021Nov}{article}{}
+      \name{author}{11}{}{%
+        {{hash=e89afd76e739d24b6a9e723873e46a0d}{%
+           family={Tilly},
+           familyi={T\bibinitperiod},
+           given={Jules},
+           giveni={J\bibinitperiod}}}%
+        {{hash=815b49d34a2166323e21f54355f9ce2c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Hongxiang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e5d3d918b7be338f8a424a23f0dce0ba}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Shuxiang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=400cb20be1a645ad4be6c55d828fab8b}{%
+           family={Picozzi},
+           familyi={P\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod}}}%
+        {{hash=abfb3de829a93fdf1dbd5bcac06ef044}{%
+           family={Setia},
+           familyi={S\bibinitperiod},
+           given={Kanav},
+           giveni={K\bibinitperiod}}}%
+        {{hash=96641b60b95eb223b3df53d9263f63ff}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b1d176833e606713973a4617ef10e618}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=87c1e1f5d917ee25158301ca68f9794d}{%
+           family={Wossnig},
+           familyi={W\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a94f26fffc034d863986f733b1ceaeff}{%
+           family={Rungger},
+           familyi={R\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8c7b2231792946b925014d762dcf665a}{%
+           family={Booth},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=abde27073a2ab1a81311c3289a4e28c5}{%
+           family={Tennyson},
+           familyi={T\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aa107736bfa0f89edac9f086a4ab520}
+      \strng{fullhash}{f0d12517a9bb62c689bbce2a571c3243}
+      \strng{bibnamehash}{7aa107736bfa0f89edac9f086a4ab520}
+      \strng{authorbibnamehash}{7aa107736bfa0f89edac9f086a4ab520}
+      \strng{authornamehash}{7aa107736bfa0f89edac9f086a4ab520}
+      \strng{authorfullhash}{f0d12517a9bb62c689bbce2a571c3243}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{11}
+      \field{title}{{The Variational Quantum Eigensolver: a review of methods and best practices}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.48550/arXiv.2111.05176
+      \endverb
+      \verb{eprint}
+      \verb 2111.05176
+      \endverb
+    \endentry
+    \entry{Veis2014Jun}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5639fb699a197e299538fab136606a45}{%
+           family={Veis},
+           familyi={V\bibinitperiod},
+           given={Libor},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fb96a60fec93b6097d861e60e13cdb9a}{%
+           family={Pittner},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{c190ce5fed15733b94289179156c8c1a}
+      \strng{fullhash}{c190ce5fed15733b94289179156c8c1a}
+      \strng{bibnamehash}{c190ce5fed15733b94289179156c8c1a}
+      \strng{authorbibnamehash}{c190ce5fed15733b94289179156c8c1a}
+      \strng{authornamehash}{c190ce5fed15733b94289179156c8c1a}
+      \strng{authorfullhash}{c190ce5fed15733b94289179156c8c1a}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0021-9606}
+      \field{journaltitle}{J. Chem. Phys.}
+      \field{month}{6}
+      \field{number}{21}
+      \field{title}{{Adiabatic state preparation study of methylene}}
+      \field{volume}{140}
+      \field{year}{2014}
+      \field{pages}{214111}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.4880755
+      \endverb
+    \endentry
+    \entry{Wack2021Oct}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b4afb57dd49cf254a1138d1b98472f66}{%
+           family={Wack},
+           familyi={W\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4b69b69f9d1afede801f6a9b24967597}{%
+           family={Paik},
+           familyi={P\bibinitperiod},
+           given={Hanhee},
+           giveni={H\bibinitperiod}}}%
+        {{hash=191becd84b73801334fff604a5665c49}{%
+           family={Javadi-Abhari},
+           familyi={J\bibinithyphendelim A\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5211732d49f549e38929229b763e8e57}{%
+           family={Jurcevic},
+           familyi={J\bibinitperiod},
+           given={Petar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8d6be173c104253ddbc4ff5a15de5e65}{%
+           family={Faro},
+           familyi={F\bibinitperiod},
+           given={Ismael},
+           giveni={I\bibinitperiod}}}%
+        {{hash=13ffee31f58f6a53a6d6969d093862dc}{%
+           family={Gambetta},
+           familyi={G\bibinitperiod},
+           given={Jay\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=91eec8d1a1dcb9e546221f8a63861ba7}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Blake\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd04a26f2c2891c75ba514fe94078cb3}
+      \strng{fullhash}{907e10320ddd708ebe965119c620dd65}
+      \strng{bibnamehash}{bd04a26f2c2891c75ba514fe94078cb3}
+      \strng{authorbibnamehash}{bd04a26f2c2891c75ba514fe94078cb3}
+      \strng{authornamehash}{bd04a26f2c2891c75ba514fe94078cb3}
+      \strng{authorfullhash}{907e10320ddd708ebe965119c620dd65}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{10}
+      \field{title}{{Quality, Speed, and Scale: three key attributes to measure the performance of near-term quantum computers}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.48550/arXiv.2110.14108
+      \endverb
+      \verb{eprint}
+      \verb 2110.14108
+      \endverb
+    \endentry
+    \entry{Wang2019Apr}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f605810d16ffcd928d4922cb3dc343c7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Daochen},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2db1ed6b0ea0e0cd8635024ff435326e}{%
+           family={Higgott},
+           familyi={H\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=779d39baa19bb96d78a124cb78e6ee92}{%
+           family={Brierley},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{27bc78f5804d9135681503998b22f66d}
+      \strng{fullhash}{27bc78f5804d9135681503998b22f66d}
+      \strng{bibnamehash}{27bc78f5804d9135681503998b22f66d}
+      \strng{authorbibnamehash}{27bc78f5804d9135681503998b22f66d}
+      \strng{authornamehash}{27bc78f5804d9135681503998b22f66d}
+      \strng{authorfullhash}{27bc78f5804d9135681503998b22f66d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1079-7114}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{4}
+      \field{number}{14}
+      \field{title}{{Accelerated Variational Quantum Eigensolver}}
+      \field{volume}{122}
+      \field{year}{2019}
+      \field{pages}{140504}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.122.140504
+      \endverb
+    \endentry
+    \entry{Wiebe2011Oct}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9906b78ec80183f9ac5008ae54ce7088}{%
+           family={Wiebe},
+           familyi={W\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e0053050bdc2ad78d707462c41ad32d3}{%
+           family={Berry},
+           familyi={B\bibinitperiod},
+           given={Dominic\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=a63f61d51d4a7a277cce46722c380f1a}{%
+           family={H{ø}yer},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=817c1d144187fba81f3f317cf739c8c4}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Barry\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{8c4a1cb85c9beb53cdf50cf335598960}
+      \strng{fullhash}{3556c294a053e07b6206c2173b2e795a}
+      \strng{bibnamehash}{8c4a1cb85c9beb53cdf50cf335598960}
+      \strng{authorbibnamehash}{8c4a1cb85c9beb53cdf50cf335598960}
+      \strng{authornamehash}{8c4a1cb85c9beb53cdf50cf335598960}
+      \strng{authorfullhash}{3556c294a053e07b6206c2173b2e795a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1751-8121}
+      \field{journaltitle}{J. Phys. A: Math. Theor.}
+      \field{month}{10}
+      \field{number}{44}
+      \field{title}{{Simulating quantum dynamics on a quantum computer}}
+      \field{volume}{44}
+      \field{year}{2011}
+      \field{pages}{445308}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1751-8113/44/44/445308
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

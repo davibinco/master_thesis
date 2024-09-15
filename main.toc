@@ -1,0 +1,64 @@
+\contentsline {chapter}{Introduction}{4}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Quantum computational chemistry}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Classical approach}{11}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Basis set}{11}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Wave function-based methods}{12}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Accuracy and precision}{17}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Quantum approach}{18}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Density functional theory}{22}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{22}{section.2.1}%
+\contentsline {section}{\numberline {2.2}First approach}{22}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Analysis}{23}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Hohenberg-Kohn theorems}{23}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Kohn-Sham self-consistent field method}{24}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Exchange-correlation functionals}{27}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Computational requirements}{32}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Quantum computing}{36}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{36}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Qubits}{39}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Quantum gates}{41}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Measurement}{45}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Important results}{45}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Set of universal quantum gates}{45}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Gottesman-Knill theorem}{47}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Quantum computational complexity}{48}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Quantum Fourier transform}{49}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Quantum devices}{50}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Optical photons}{52}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Trapped ions}{53}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Superconducting circuits}{54}{subsection.3.3.3}%
+\contentsline {chapter}{\numberline {4}Quantum computing for computational chemistry: FTQC devices}{58}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Fault-tolerant quantum computation devices}{58}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Quantum phase estimation}{61}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}State preparation}{62}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hamiltonian simulation}{63}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Computational requirements}{64}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Examples}{66}{subsection.4.3.1}%
+\contentsline {chapter}{\numberline {5}Quantum computing for computational chemistry: NISQ devices}{71}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Noisy intermediate-scale quantum devices}{71}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Variational quantum eigensolver}{72}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Encoding of operators}{74}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Ansatz and state preparation}{77}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Efficient grouping and measuring strategies}{79}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Error mitigation}{81}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}Computational requirements}{84}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Example}{88}{subsection.5.3.1}%
+\contentsline {chapter}{\numberline {6}Computational advantage}{92}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Benchmarking quantum computers}{92}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Number of qubits}{93}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Quantum volume}{93}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Circuit Layer Operations per Second Benchmark}{94}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Today's quantum computers}{95}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Algorithms comparison}{96}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}QPE and VQE}{96}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Classical and quantum}{99}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Targets of simulation}{102}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Defining advantage}{102}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Applicability forecast}{103}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Next steps}{110}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Problem fragmentation}{110}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Materials science}{111}{subsection.6.4.2}%
+\contentsline {chapter}{Conclusion}{113}{chapter*.3}%
+\contentsline {chapter}{Acknowledgments}{114}{chapter*.4}%
+\contentsline {chapter}{Bibliography}{115}{chapter*.5}%
